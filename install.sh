@@ -9,7 +9,7 @@ info_msg() {
 }
 
 info_msg "Installing Packages ..."
-sudo pacman -Sy --noconfirm --needed wget git unzip jre-openjdk
+sudo pacman -Sy --noconfirm --needed wget git unzip jre8-openjdk
 
 info_msg "Cloning Repo ..."
 git clone https://github.com/mttomaz/tlauncher-arch.git "$HOME/tlauncher-arch"
