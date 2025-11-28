@@ -8,7 +8,7 @@
 
 </div>
 
-This is a repo that i made to install TLauncher on Arch Linux directly from their [site](https://tlauncher.org/).
+This is a repo that i made to install TLauncher on Arch Linux directly from their [site](https://tlauncher.org/) with java 8.
 
 > [!Warning]
 > This script is only a tool to facilitate the download of TLauncher.
