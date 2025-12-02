@@ -14,7 +14,7 @@ This is a repo that i made to install TLauncher on Arch Linux directly from thei
 > This script is only a tool to facilitate the download of TLauncher.
 > The use of TLauncher is entirely at your own risk. I am not responsible
 > for any issues that may arise from the use of TLauncher. If you are curious
-> about why this warning even exists, see [this](https://github.com/MatheusTT/tlauncher-arch/issues/1) issue.
+> about why this warning even exists, see [this](https://github.com/mttomaz/tlauncher-arch/issues/1) issue.
 
 ## Installing
 Run the following command to install TLauncher:
